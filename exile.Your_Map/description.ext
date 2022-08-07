@@ -1,0 +1,8 @@
+
+#include "d2k\dialogs.hpp"
+
+
+class CfgFunctions
+{
+	#include "d2k\CfgFunctions.cpp"
+};
