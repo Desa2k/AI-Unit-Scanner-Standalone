@@ -11,6 +11,4 @@
 		file = "d2k\UnitScanner\Functions";
 		class loadContent {};
 		class showUnits {};
-		class removeBots {};
-		class botCheck {};
 	};
